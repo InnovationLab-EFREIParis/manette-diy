@@ -1,8 +1,10 @@
 /*
     Gamepad.h
-    A GamePad HID library for Arduino Pro Micro/Leonardo (ATMega32u4)
+    A GamePad HID library for custom gamepads
 
     Copyright (C) 2016 Marek GAMELASTER Kraus
+    Copyright (C) 2025 Innovation Lab - Efrei Paris
+    Copyright (C) 2025 ICE Efrei
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -21,34 +23,23 @@
 #ifndef GAMEPAD_H
 #define GAMEPAD_H
 
-#include "HID.h"
+#include <Arduino.h>
+#include <HID.h>
 
-#if defined(_USING_HID)
+#ifdef _USING_HID
 
-typedef struct
-{
-    uint16_t buttons;
-    int8_t leftXaxis;
-    int8_t leftYaxis;
-    int8_t rightXaxis;
-    int8_t rightYaxis;
-} gamepad_report_struct;
 
 class Gamepad
 {
-private:
-    gamepad_report_struct reportData;
+    private:
+    uint16_t buttonsStates;
 
 public:
-    Gamepad(bool useZRx = false);
+    Gamepad();
 
     void sendUpdate();
 
-    void setButtonState(uint8_t button, bool state);
-    void setLeftXaxis(int8_t value);
-    void setLeftYaxis(int8_t value);
-    void setRightXaxis(int8_t value);
-    void setRightYaxis(int8_t value);
+    void set(uint8_t button, bool state);
 };
 
 #else
