@@ -1,48 +1,47 @@
-/*
-    Gamepad.h
-    A GamePad HID library for custom gamepads
-
-    Copyright (C) 2016 Marek GAMELASTER Kraus
-    Copyright (C) 2025 Innovation Lab - Efrei Paris
-    Copyright (C) 2025 ICE Efrei
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-*/
-
 #ifndef GAMEPAD_H
 #define GAMEPAD_H
 
-#include <Arduino.h>
-#include <HID.h>
+#include <PluggableUSBHID.h>
+#include <PlatformMutex.h>
 
-#ifdef _USING_HID
+#define TOTAL_DESCRIPTOR_LENGTH ((1 * CONFIGURATION_DESCRIPTOR_LENGTH) \
+                               + (1 * INTERFACE_DESCRIPTOR_LENGTH) \
+                               + (1 * HID_DESCRIPTOR_LENGTH) \
+                               + (2 * ENDPOINT_DESCRIPTOR_LENGTH))
 
+using namespace arduino; 
 
-class Gamepad
+enum report_bit_t
 {
-    private:
-    uint16_t buttonsStates;
-
-public:
-    Gamepad();
-
-    void sendUpdate();
-
-    void set(uint8_t button, bool state);
+    REPORT_CROSS = 0,
+    REPORT_SQUARE = 1,
+    REPORT_CIRCLE = 2,
+    REPORT_TRIANGLE = 3,
+    REPORT_SELECT = 8,
+    REPORT_DOWN = 13,
+    REPORT_START = 9,
+    REPORT_UP = 12,
+    REPORT_LEFT = 14,
+    REPORT_RIGHT = 15
 };
 
-#else
-#warning "HID is not supported for this chip"
-#endif
+class Gamepad: public USBHID {
+public:
+    Gamepad(bool connect_blocking = true, uint16_t vendor_id = 0x1234, uint16_t product_id = 0x0001, uint16_t product_release = 0x0001);
+    void sendReport();
+    void setButton(report_bit_t button, bool state);
+    const uint8_t *report_desc();
+    uint16_t report_desc_length();
+
+protected:
+    // virtual const uint8_t *configuration_desc(uint8_t index);
+
+private:
+    uint16_t report;
+    PlatformMutex _mutex;
+    uint8_t _configuration_descriptor[34];
+};
+
+static Gamepad Controller;
+
 #endif
