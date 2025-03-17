@@ -1,3 +1,4 @@
 .pio
 .vscode
 pcb/manette-backups
+*.kicad_pcb.lck
