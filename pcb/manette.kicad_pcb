@@ -171,6 +171,120 @@
 	(net 55 "unconnected-(A1-GPIO22-Pad29)_1")
 	(net 56 "unconnected-(A1-3V3_EN-Pad37)_1")
 	(net 57 "Net-(D1-K)")
+	(footprint "MountingHole:MountingHole_3mm"
+		(layer "F.Cu")
+		(uuid "06ab42af-b3ad-46bb-abbc-87b723a26385")
+		(at 191.5 124.5)
+		(descr "Mounting Hole 3mm, no annular")
+		(tags "mounting hole 3mm no annular")
+		(property "Reference" "Vis"
+			(at 0 -4 0)
+			(layer "F.SilkS")
+			(uuid "cbffc626-cf79-448f-8ca1-3c7f5b47bf75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_3mm"
+			(at 0 4 0)
+			(layer "F.Fab")
+			(uuid "02467825-1e65-4241-b197-02e9538a83fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0faa966-c8df-4fba-994b-9fffcec79524")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3a06b93-6b57-4c01-a7b2-bde050a5ab25")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "647c0944-bc30-4e8e-bf21-9aa56aa46ad0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 3 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "e539ec1d-50bf-4a2c-a668-e6c084f8ad73")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 3.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "504b9634-ad72-4f3b-979c-c9491cb123fb")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "103f28b1-207c-4a1e-8958-b3ea8d680c17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 3 3)
+			(drill 3)
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
+			(uuid "5359d490-049d-416b-ba92-b0a15964d02d")
+		)
+	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 		(layer "F.Cu")
 		(uuid "142c4608-d830-4a48-95e1-d59f8cb7989d")
@@ -1306,6 +1420,120 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "MountingHole:MountingHole_3mm"
+		(layer "F.Cu")
+		(uuid "421f7ebb-3f8f-4815-8f91-5cf5ebd06c5e")
+		(at 191.5 85)
+		(descr "Mounting Hole 3mm, no annular")
+		(tags "mounting hole 3mm no annular")
+		(property "Reference" "Vis"
+			(at 0 -4 0)
+			(layer "F.SilkS")
+			(uuid "6cb06329-d574-42ab-bff8-15f4f3561c0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_3mm"
+			(at 0 4 0)
+			(layer "F.Fab")
+			(uuid "079a35d4-fea8-43d0-a6e6-45c39d8d98ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb8310f4-38a6-457a-ba08-2eb0ce79cfbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab0f62cc-37e7-4c0a-b94e-54e177f750cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9537debe-3bdf-4b56-84e4-a22f27cb94f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 3 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "502c1150-902e-4863-afec-d281dc55da96")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 3.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "984ba003-0340-4a49-b64d-9d6295c957f3")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "16813a62-3c54-4d95-8da1-9f4d18595dc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 3 3)
+			(drill 3)
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
+			(uuid "1d356d6e-4f0b-4030-b73e-a31e7cbd21a4")
 		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
@@ -7400,7 +7628,7 @@
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "Resistor 220Ω"
-			(at 6.35 -2.72 360)
+			(at 6.35 -2.72 0)
 			(layer "F.SilkS")
 			(uuid "7077256e-e0c1-4f6b-850d-070082a8ea0d")
 			(effects
@@ -7411,7 +7639,7 @@
 			)
 		)
 		(property "Value" "220Ω"
-			(at 6.35 2.72 360)
+			(at 6.35 2.72 0)
 			(layer "F.Fab")
 			(uuid "72bf7695-2ecc-4126-8e04-509309890f46")
 			(effects
@@ -7626,7 +7854,7 @@
 			(uuid "ba6e257d-1734-478f-ba5e-ab9847d0c541")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.35 0 360)
+			(at 6.35 0 0)
 			(layer "F.Fab")
 			(uuid "fdab969d-9bcf-4347-99ac-6177669cc015")
 			(effects
@@ -8443,7 +8671,7 @@
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf, generated by kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED"
-			(at 1.04 5.5 360)
+			(at 1.04 5.5 0)
 			(layer "F.SilkS")
 			(uuid "488d4814-4c89-4d31-ac15-cf3b30c2ec64")
 			(effects
@@ -8454,7 +8682,7 @@
 			)
 		)
 		(property "Value" "Blue"
-			(at 1.27 3.96 360)
+			(at 1.27 3.96 0)
 			(layer "F.Fab")
 			(uuid "6ca2d246-3890-4bf6-8160-34dc5491ceb9")
 			(effects
@@ -8465,7 +8693,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3bb126e-80f3-450a-93ce-98515ea3c899")
@@ -8477,7 +8705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ef2877c-cb47-49b4-aa62-f2a9a97b2edb")
@@ -8489,7 +8717,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9cf65bff-c2c8-4686-9543-e9feb0dd4303")
@@ -8621,7 +8849,7 @@
 			(uuid "fdbde859-e6e2-48c7-a36b-a300b834a0ae")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 360)
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "769d1a79-e2de-4174-ab49-5ac8237b3c02")
 			(effects
@@ -8675,17 +8903,6 @@
 			)
 		)
 	)
-	(gr_circle
-		(center 191.5 124.5)
-		(end 193 124.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill none)
-		(layer "Edge.Cuts")
-		(uuid "1dc9d9ad-3ae1-4372-8c26-8a8b118bdcdb")
-	)
 	(gr_arc
 		(start 107.5 130.5)
 		(mid 103.964466 129.035534)
@@ -8728,17 +8945,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "6beedb81-29a3-4d25-8f27-c03b8361fb20")
-	)
-	(gr_circle
-		(center 191.5 85)
-		(end 193 85)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill none)
-		(layer "Edge.Cuts")
-		(uuid "a4c14600-d171-4df0-b894-099d8c1d2217")
 	)
 	(gr_line
 		(start 107.5 79)
