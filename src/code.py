@@ -1,7 +1,6 @@
 import board
 from digitalio import DigitalInOut, Direction, Pull
-import time
-import usb_hid
+import pwmio
 from lib.gamepad import gamepad
 
 
@@ -38,6 +37,8 @@ buttons = [
     Button(board.GP10, gamepad.up),
 ]
 
+led = pwmio.PWMOut(board.GP15, frequency=5000, duty_cycle=0)
+
 while True:
     anything_changed = False
 
@@ -47,3 +48,4 @@ while True:
     
     if anything_changed:
         gamepad.send()
+ # type: ignore
