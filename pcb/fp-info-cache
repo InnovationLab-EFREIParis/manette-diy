@@ -1,4 +1,4 @@
-24775180742400940
+24646231906420227
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13292,6 +13292,90 @@ connector Hirose DF63 vertical
 0
 5
 5
+Connector_Hirose_FX8
+Hirose_FX8-60P-SV_2x30_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Header, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking header
+0
+60
+60
+Connector_Hirose_FX8
+Hirose_FX8-60S-SV_2x30_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking receptacle
+0
+60
+60
+Connector_Hirose_FX8
+Hirose_FX8-80P-SV_2x40_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Header, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking header
+0
+80
+80
+Connector_Hirose_FX8
+Hirose_FX8-80S-SV_2x40_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking receptacle
+0
+80
+80
+Connector_Hirose_FX8
+Hirose_FX8-90P-SV_2x45_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Header, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking header
+0
+90
+90
+Connector_Hirose_FX8
+Hirose_FX8-90S-SV_2x45_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking receptacle
+0
+90
+90
+Connector_Hirose_FX8
+Hirose_FX8-100P-SV_2x50_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Header, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking header
+0
+100
+100
+Connector_Hirose_FX8
+Hirose_FX8-100S-SV_2x50_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking receptacle
+0
+100
+100
+Connector_Hirose_FX8
+Hirose_FX8-120P-SV_2x60_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Header, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking header
+0
+120
+120
+Connector_Hirose_FX8
+Hirose_FX8-120S-SV_2x60_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking receptacle
+0
+120
+120
+Connector_Hirose_FX8
+Hirose_FX8-140P-SV_2x70_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Header, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking header
+0
+140
+140
+Connector_Hirose_FX8
+Hirose_FX8-140S-SV_2x70_P0.6mm
+0.6mm Pitch, Stacking Height 3mm to 16mm, Receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX8&documenttype=Catalog&lang=en&documentid=D31612_en)
+conn hirose board to board stacking receptacle
+0
+140
+140
 Connector_IDC
 IDC-Header_2x03_P2.54mm_Horizontal
 Through hole IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
@@ -14874,6 +14958,146 @@ SIM Card with Detect Switch
 0
 18
 9
+Connector_JAE_WP7B
+JAE_WP7B-P034VA1-R8000_2x17-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+38
+35
+Connector_JAE_WP7B
+JAE_WP7B-P034VA1-R8000_Longpads_2x17-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+38
+35
+Connector_JAE_WP7B
+JAE_WP7B-P040VA1-R8000_2x20-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+44
+41
+Connector_JAE_WP7B
+JAE_WP7B-P040VA1-R8000_Longpads_2x20-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+44
+41
+Connector_JAE_WP7B
+JAE_WP7B-P050VA1-R8000_2x25-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+54
+51
+Connector_JAE_WP7B
+JAE_WP7B-P050VA1-R8000_Longpads_2x25-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+54
+51
+Connector_JAE_WP7B
+JAE_WP7B-P060VA1-R8000_2x30-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+64
+61
+Connector_JAE_WP7B
+JAE_WP7B-P060VA1-R8000_Longpads_2x30-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+64
+61
+Connector_JAE_WP7B
+JAE_WP7B-P070VA1-R8000_2x35-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+74
+71
+Connector_JAE_WP7B
+JAE_WP7B-P070VA1-R8000_Longpads_2x35-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Plug, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66869&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+74
+71
+Connector_JAE_WP7B
+JAE_WP7B-S034VA1-R8000_2x17-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+38
+35
+Connector_JAE_WP7B
+JAE_WP7B-S034VA1-R8000_Longpads_2x17-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+38
+35
+Connector_JAE_WP7B
+JAE_WP7B-S040VA1-R8000_2x20-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+44
+41
+Connector_JAE_WP7B
+JAE_WP7B-S040VA1-R8000_Longpads_2x20-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+44
+41
+Connector_JAE_WP7B
+JAE_WP7B-S050VA1-R8000_2x25-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+54
+51
+Connector_JAE_WP7B
+JAE_WP7B-S050VA1-R8000_Longpads_2x25-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+54
+51
+Connector_JAE_WP7B
+JAE_WP7B-S060VA1-R8000_2x30-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+64
+61
+Connector_JAE_WP7B
+JAE_WP7B-S060VA1-R8000_Longpads_2x30-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+64
+61
+Connector_JAE_WP7B
+JAE_WP7B-S070VA1-R8000_2x35-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+74
+71
+Connector_JAE_WP7B
+JAE_WP7B-S070VA1-R8000_Longpads_2x35-1MP_P0.4mm
+0.4mm Pitch, Stacking Type, Board-to-Board FPC connector, 0.7mm Mating Height, Reworkable, Receptacle, vertical (source: https://www.jae.com/direct/topics/topics_file_download/topics_id=66874&ext_no=06&index=0&_lang=en&v=)
+conn jae fpc board to board
+0
+74
+71
 Connector_JST
 JST_ACH_BM01B-ACHSS-A-GAN-ETF_1x01-1MP_P1.20mm_Vertical
 JST ACH series connector, BM01B-ACHSS-A-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
@@ -65918,181 +66142,6 @@ module pcb
 0
 7
 7
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common
-Raspberry Pi Pico (wireless & original) versatile footprint for surface-mount or through-hole hand soldering, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_MountingHoles
-Raspberry Pi Pico (wireless & original) versatile footprint for surface-mount or through-hole hand soldering, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_SMD
-Raspberry Pi Pico (wireless & original) common surface-mount footprint for reflow or hand soldering, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_SMD_MountingHoles
-Raspberry Pi Pico (wireless & original) common surface-mount footprint for reflow or hand soldering, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_THT
-Raspberry Pi Pico (wireless & original) common through-hole footprint, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-40
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_THT_MountingHoles
-Raspberry Pi Pico (wireless & original) common through-hole footprint, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-40
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_OptionalKeepoutRF
-Supplementary RF keepout zone for the Raspberry Pi Pico W (wireless), to be added to other Raspberry Pi Pico footprints, https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module keepout rf wireless extra addon
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_OptionalKeepoutUSB
-Supplementary USB cable keepout zone for the Raspberry Pi Pico and Pico W, to be added to other Raspberry Pi Pico footprints
-Raspberry Pi Pico module keepout usb plug port cable clearance courtyard extra addon
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_OptionalPinLabels
-Supplementary pin labels for the Raspberry Pi Pico (wireless & original), to be added to other Raspberry Pi Pico footprints, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module label extra addon
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD
-Raspberry Pi Pico (original only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd
-0
-96
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_HandSolder
-Raspberry Pi Pico (original only) surface-mount footprint with debug pads for hand soldering (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd handsolder
-0
-86
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_MountingHoles
-Raspberry Pi Pico (original only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd
-0
-96
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_MountingHoles_HandSolder
-Raspberry Pi Pico (original only) surface-mount footprint with debug pads for hand soldering (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd handsolder
-0
-86
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_MountingHoles_HandSolder_Castellated
-Raspberry Pi Pico (original only) surface-mount footprint with debug pads and castellated test points for hand soldering; requires completion of partial edge (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module castellated usb pcb swd handsolder
-0
-95
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_Virtual
-Raspberry Pi Pico (original only) virtual footprint (no pads; not compatible with Pico W), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb virtual
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_Virtual_MountingHoles
-Raspberry Pi Pico (original only) virtual footprint (no pads; not compatible with Pico W), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb virtual
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_PinSocket_1x03_P2.54mm_Vertical
-Through hole straight socket strip for individual placement alongside a virtual Raspberry Pi Pico, 1x03, 2.54mm pitch, single row, default socket model has height of 7mm
-Raspberry Pi Pico through hole socket strip THT 1x03 2.54mm single row
-0
-3
-3
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_PinSocket_1x20_P2.54mm_Vertical
-Through hole straight socket strip for individual placement alongside a virtual Raspberry Pi Pico, 1x20, 2.54mm pitch, single row, default socket model has height of 8.51mm
-Raspberry Pi Pico through hole socket strip THT 1x20 2.54mm single row
-0
-20
-20
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD
-Raspberry Pi Pico W (wireless only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna
-0
-93
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_HandSolder
-Raspberry Pi Pico W (wireless only) surface-mount footprint with debug pads for hand soldering (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna handsolder
-0
-83
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_MountingHoles
-Raspberry Pi Pico W (wireless only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna
-0
-93
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_MountingHoles_HandSolder
-Raspberry Pi Pico W (wireless only) surface-mount footprint with debug pads for hand soldering (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna handsolder
-0
-83
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_MountingHoles_HandSolder_Castellated
-Raspberry Pi Pico W (wireless only) surface-mount footprint with castellated test points and debug access for hand soldering; requires completion of partial edge (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module castellated usb pcb swd antenna handsolder
-0
-95
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_Virtual
-Raspberry Pi Pico W (wireless only) virtual footprint (no pads; not compatible with original Pico), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna virtual
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_Virtual_MountingHoles
-Raspberry Pi Pico W (wireless only) virtual footprint (no pads; not compatible with original Pico), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna virtual
-0
-0
-0
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -69705,573 +69754,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_Espressif
-ESP32-C3-DevKitC-02
-
-
-0
-30
-30
-PCM_Espressif
-ESP32-C3-DevKitM-1
-
-
-0
-30
-30
-PCM_Espressif
-ESP32-C3-MINI-1
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-PCM_Espressif
-ESP32-C3-MINI-1U
-ESP32-C3-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-PCM_Espressif
-ESP32-C3-MINI-1_HandSoldering
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-PCM_Espressif
-ESP32-C3-WROOM-02
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-PCM_Espressif
-ESP32-C3-WROOM-02U
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-PCM_Espressif
-ESP32-C5-DevKitC-1
-
-
-0
-32
-32
-PCM_Espressif
-ESP32-C6-DevKitC-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
-0
-32
-32
-PCM_Espressif
-ESP32-C6-DevKitM-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
-0
-30
-30
-PCM_Espressif
-ESP32-C6-MINI-1
-ESP32-C6-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
-0
-61
-53
-PCM_Espressif
-ESP32-C6-MINI-1U
-ESP32-C6-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
-0
-61
-53
-PCM_Espressif
-ESP32-C6-WROOM-1
-ESP32-C6-WROOM-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf
-esp32-c6
-0
-37
-29
-PCM_Espressif
-ESP32-C6-WROOM-1U
-ESP32-C6-WROOM-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf
-esp32-c6
-0
-37
-29
-PCM_Espressif
-ESP32-DevKitC
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-38
-38
-PCM_Espressif
-ESP32-DevKitM-1
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-34
-34
-PCM_Espressif
-ESP32-H2-MINI-1
-ESP32-H2-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf
-ESP32-H2
-0
-61
-53
-PCM_Espressif
-ESP32-MINI-1
-ESP32-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1
-0
-63
-55
-PCM_Espressif
-ESP32-MINI-1U
-ESP32-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1U
-0
-63
-55
-PCM_Espressif
-ESP32-P4
-
-
-0
-113
-105
-PCM_Espressif
-ESP32-PICO-MINI-02
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-PCM_Espressif
-ESP32-PICO-MINI-02U
-ESP32-PICO-MINI-02U: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02U
-0
-61
-53
-PCM_Espressif
-ESP32-PICO-MINI-02_HandSoldering
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-PCM_Espressif
-ESP32-S2-DevKitC-1
-ESP32-S2 general-purpose development board, based on ESP32-S2-SOLO or ESP32-S2-SOLO-U,It has all the ESP32-S2 pins exposed and is easy to connect and use.
-ESP32-S2
-0
-44
-44
-PCM_Espressif
-ESP32-S2-DevKitM
-ESP32-S2 general-purpose development board
-ESP32-S2
-0
-42
-42
-PCM_Espressif
-ESP32-S2-MINI-1
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-PCM_Espressif
-ESP32-S2-MINI-1U
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-PCM_Espressif
-ESP32-S2-MINI-1_HandSoldering
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2 Hand Soldering
-0
-73
-65
-PCM_Espressif
-ESP32-S2-SOLO
-ESP32-S2-SOLO https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-PCM_Espressif
-ESP32-S2-SOLO-2U
-ESP32-S2-SOLO-2U https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-PCM_Espressif
-ESP32-S2-Saola-1
-Espressif ESP32-S2-Saola-1 Development Kit: https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html
-esp32-s2 devkit
-0
-42
-42
-PCM_Espressif
-ESP32-S2-WROOM
-ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
-ESP32-S2
-0
-51
-43
-PCM_Espressif
-ESP32-S2-WROVER
-ESP32-S2-WROVER and ESP32-S2-WROVER-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
-ESP32-S2
-0
-55
-43
-PCM_Espressif
-ESP32-S3-DevKitC
-ESP32-S3 general-purpose development board, based on ESP32-S3-WROOM-1 or ESP32-S3-WROOM-1U,It has all the ESP32-S3 pins exposed and is easy to connect and use.
-ESP32-S3
-0
-44
-44
-PCM_Espressif
-ESP32-S3-MINI-1
-ESP32-S3-MINI-1
-esp32-s3
-0
-73
-65
-PCM_Espressif
-ESP32-S3-MINI-1U
-ESP32-S3-MINI-1 and ESP32-S3-MINI-1U
-esp32-s3
-0
-73
-65
-PCM_Espressif
-ESP32-S3-WROOM-1
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-PCM_Espressif
-ESP32-S3-WROOM-1U
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-49
-41
-PCM_Espressif
-ESP32-S3-WROOM-2
-ESP32-S3-WROOM-2 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-PCM_Espressif
-ESP32-WROOM-32E
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-50
-39
-PCM_Espressif
-ESP32-WROOM-32UE
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-47
-39
-PCM_Espressif
-ESP32-WROOM-DA
-ESP32-WROOM-DA: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf
-ESP32 Dual Antenna DA
-0
-49
-41
-PCM_Espressif
-ESP32-WROVER-E
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module
-0
-47
-39
-PCM_Espressif
-ESP32-WROVER-E_ThermalVias
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module thermal vias
-0
-59
-39
-PCM_Espressif
-ESP8685-WROOM-06
-ESP32-WROOM-06: https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-06_datasheet_en.pdf
-esp32 module
-0
-31
-22
-PCM_Espressif
-QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm
-QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-37
-33
-PCM_arduino-library
-Arduino_101_Shield
-https://docs.arduino.cc/retired/boards/arduino-101-619
-
-0
-38
-38
-PCM_arduino-library
-Arduino_Due_Shield
-https://docs.arduino.cc/hardware/due
-
-0
-92
-91
-PCM_arduino-library
-Arduino_Giga_R1_WiFi_Shield
-https://docs.arduino.cc/hardware/giga-r1-wifi
-
-0
-92
-91
-PCM_arduino-library
-Arduino_Leonardo_Shield
-https://docs.arduino.cc/hardware/leonardo
-
-0
-38
-37
-PCM_arduino-library
-Arduino_M0_Pro_Shield
-https://docs.arduino.cc/retired/boards/arduino-m0-pro
-
-0
-38
-37
-PCM_arduino-library
-Arduino_MKR_1000_WiFi_Socket
-https://docs.arduino.cc/hardware/mkr-1000-wifi
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_FOX_1200_Socket
-https://docs.arduino.cc/hardware/mkr-fox-1200
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_Vidor_4000_Socket
-https://docs.arduino.cc/hardware/mkr-vidor-4000
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_WiFi_1010_Socket
-https://docs.arduino.cc/hardware/mkr-wifi-1010
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_Zero_Socket
-https://docs.arduino.cc/hardware/mkr-zero
-
-0
-28
-28
-PCM_arduino-library
-Arduino_Mega2560_R3_Shield
-https://docs.arduino.cc/hardware/mega-2560
-
-0
-92
-91
-PCM_arduino-library
-Arduino_Micro_Socket
-https://docs.arduino.cc/hardware/micro
-
-0
-34
-32
-PCM_arduino-library
-Arduino_Mini_Socket
-https://docs.arduino.cc/retired/boards/arduino-mini-05
-
-0
-35
-35
-PCM_arduino-library
-Arduino_Mini_Socket_NoSPH
-https://docs.arduino.cc/retired/boards/arduino-mini-05
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_33_IoT_Socket
-https://docs.arduino.cc/hardware/nano-33-iot
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_33_IoT_Tile
-https://docs.arduino.cc/hardware/nano-33-iot
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_ESP32_Socket
-https://docs.arduino.cc/hardware/nano-esp32
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_ESP32_Tile
-https://docs.arduino.cc/hardware/nano-esp32
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_Every_Socket
-https://docs.arduino.cc/hardware/nano-every
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_Every_Tile
-https://docs.arduino.cc/hardware/nano-every
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_Socket
-https://docs.arduino.cc/hardware/nano
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nicla_Vision_Socket
-https://docs.arduino.cc/hardware/nicla-vision
-
-0
-19
-18
-PCM_arduino-library
-Arduino_Nicla_Vision_Tile
-https://docs.arduino.cc/hardware/nicla-vision
-
-0
-19
-18
-PCM_arduino-library
-Arduino_Nicla_Voice_Socket
-https://docs.arduino.cc/hardware/nicla-voice
-
-0
-19
-17
-PCM_arduino-library
-Arduino_Nicla_Voice_Tile
-https://docs.arduino.cc/hardware/nicla-voice
-
-0
-19
-17
-PCM_arduino-library
-Arduino_Pro_Mini_Socket
-https://docs.arduino.cc/retired/boards/arduino-pro-mini
-
-0
-34
-34
-PCM_arduino-library
-Arduino_Pro_Mini_Socket_NoSPH
-https://docs.arduino.cc/retired/boards/arduino-pro-mini
-
-0
-28
-28
-PCM_arduino-library
-Arduino_Uno_R2_Shield
-https://startingelectronics.org/articles/arduino/uno-r3-r2-differences/
-
-0
-34
-34
-PCM_arduino-library
-Arduino_Uno_R3_Shield
-https://docs.arduino.cc/hardware/uno-rev3
-
-0
-38
-37
-PCM_arduino-library
-Arduino_Uno_R4_Minima_Shield
-https://docs.arduino.cc/hardware/uno-r4-minima
-
-0
-38
-38
-PCM_arduino-library
-Arduino_Uno_R4_WiFi_Shield
-https://docs.arduino.cc/hardware/uno-r4-wifi
-
-0
-47
-46
-PCM_arduino-library
-Arduino_Zero_Shield
-https://docs.arduino.cc/hardware/zero
-
-0
-38
-38
-PCM_arduino-library
-Clone_Mega2560_Pro_Socket
-https://docs.arduino.cc/hardware/mega-2560
-
-0
-86
-86
-PCM_arduino-library
-Clone_Pro_Mini_Socket
-https://www.addicore.com/Pro-Mini-p/ad249.htm
-
-0
-35
-35
-PCM_arduino-library
-Clone_Pro_Mini_Socket_NoSPH
-https://www.addicore.com/Pro-Mini-p/ad249.htm
-
-0
-29
-29
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf
