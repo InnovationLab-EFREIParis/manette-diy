@@ -37,7 +37,9 @@ buttons = [
     Button(board.GP10, gamepad.up),
 ]
 
-led = pwmio.PWMOut(board.GP15, frequency=5000, duty_cycle=0)
+led = DigitalInOut(board.GP15)
+led.direction = Direction.OUTPUT
+led.value = 1
 
 while True:
     anything_changed = False
