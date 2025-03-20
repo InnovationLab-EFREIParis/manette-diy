@@ -8,7 +8,7 @@ except ImportError:
     raise ImportError("USB_HID library is not available. Please update your CircuitPython version.")
 
 # Disable USB mass storage cdc, and MIDI
-storage.disable_usb_drive()
+# storage.disable_usb_drive()
 usb_midi.disable()
 usb_cdc.disable()
 
